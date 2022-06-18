@@ -294,7 +294,7 @@ h1, h2{
     width: 400px;
     height: 300px;
     margin: 3rem 0 0;
-    background-image: url(./artstation1.jpg);
+    background-image: url('../imagem/artstation1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
